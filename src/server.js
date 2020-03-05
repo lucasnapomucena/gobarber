@@ -1,5 +1,5 @@
 import app from './app';
 
 app.listen(3333, () => {
-    console.log('servidor rodando');
-})
+  console.log('servidor rodando');
+});
